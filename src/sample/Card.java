@@ -14,7 +14,7 @@ public class Card {
      * 'this.imageDir' referes to the imageDir variable underneath this green block comment.
      * 'imageDir' refers to the imageDir variable inside the parentheses.
      *
-     * This will take the image directory that's in the parenthesis, and store it inside 'this.imageDir'    
+     * This will take the image directory that's in the parenthesis, and store it inside 'this.imageDir'
      */
 
     String imageDir; //this.imageDir

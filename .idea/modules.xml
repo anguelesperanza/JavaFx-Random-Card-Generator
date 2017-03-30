@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CardViewer.iml" filepath="$PROJECT_DIR$/CardViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFx Random Card Generator.iml" filepath="$PROJECT_DIR$/JavaFx Random Card Generator.iml" />
     </modules>
   </component>
 </project>
